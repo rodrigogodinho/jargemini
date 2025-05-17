@@ -18,7 +18,7 @@ Este Colab foi desenvolvido para ser o seu assistente pessoal de jardinagem, ofe
 
 ## 🚀 Como Utilizar
 
-1.  **Abra no Google Colab:** Clique no badge acima [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DO_SEU_ARQUIVO_COLAB.ipynb) para abrir o notebook diretamente no seu navegador.
+1.  **Abra no Google Colab:** Clique no badge acima [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rodrigogodinho/jargemini/blob/main/jargemini.ipynb) para abrir o notebook diretamente no seu navegador.
 
 2.  **Instale as Dependências:** A primeira célula do Colab irá instalar a biblioteca `google-genai`. Execute essa célula pressionando `Shift + Enter` ou clicando no botão de "play" ao lado da célula.
 
